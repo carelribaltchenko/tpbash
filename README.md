@@ -27,28 +27,28 @@
 
 
 
-7. il faut utiliser la commande `xzgv W4JWP5SXZdD/8JZdZcj/n6bBsPmFYrlvvq/rhUOdhAFA/WfONgoI.tiF`
+7. il faut utiliser la commande `xzgv W4JWP5SXZdD/8JZdZcj/n6bBsPmFYrlvvq/rhUOdhAFA/WfONgoI.tiF` xzgv permet d'afficher l'image et celle ci représente un paysage de montagne.
 
 
 
-8. 
+8. cette image represente un apéro champetre. pour visualiser cette image, il fallait modifier les permissions avec `chmod u+r W4JWP5SXZdD/8JZdZcj/CFnTBOG/DkcEhnLR5N/iRuMJU.tIF ` puis la visualiser avec la commande `xzgv W4JWP5SXZdD/8JZdZcj/CFnTBOG/DkcEhnLR5N/iRuMJU.tIF `
 
 
 
-9. 
+9. les fichiers n'ont pas les mêmes droits. 
 
 
 
-10.
+10. pour changer les permission, il faut utiliser `chmod u+(droit a rajouter) XXX ` qui permet de changer les permissions
 
 
 
-11. 
+11. pour deplacerun fichier, il faut utilliser `mv XXX YYY` 
 
 
 
-12.
+12. pour copier un fichier, il faut utilliser `cp XXX YYY`
 
 
 
-13.
+13. pour réaliser cette action, j'ai réalisé la commande `chmod 720 Keh9rsnOnNq58k/j2DaP/xZfdIHNXCGN/q6IOP766oaak/DMFxTMGER6.png; cp Keh9rsnOnNq58k/j2DaP/xZfdIHNXCGN/q6IOP766oaak/DMFxTMGER6.png /home/carel/Documents/bash/tp1/rep_etud; mv DMFxTMGER6.png toto.png;  ls -l`
