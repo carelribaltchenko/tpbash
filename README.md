@@ -52,3 +52,15 @@
 
 
 13. pour réaliser cette action, j'ai réalisé la commande `chmod 720 Keh9rsnOnNq58k/j2DaP/xZfdIHNXCGN/q6IOP766oaak/DMFxTMGER6.png; cp Keh9rsnOnNq58k/j2DaP/xZfdIHNXCGN/q6IOP766oaak/DMFxTMGER6.png /home/carel/Documents/bash/tp1/rep_etud; mv DMFxTMGER6.png toto.png;  ls -l`
+
+![image](chmod.png)
+![image](tree.png)
+![image](ls.png)
+![image](ls-l.png)
+![image](du-sh.png)
+![image](du-ah.png)
+![image](xzgv.png)
+![image](image.png)
+![image](grosse_commande.png)
+![image](ex.png)
+![image](ls2.png)
