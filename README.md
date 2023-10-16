@@ -62,3 +62,4 @@
 13. pour réaliser cette action, j'ai réalisé la commande `chmod 720 Keh9rsnOnNq58k/j2DaP/xZfdIHNXCGN/q6IOP766oaak/DMFxTMGER6.png; cp Keh9rsnOnNq58k/j2DaP/xZfdIHNXCGN/q6IOP766oaak/DMFxTMGER6.png /home/carel/Documents/bash/tp1/rep_etud; mv DMFxTMGER6.png toto.png;  ls -l`
 ![image](grosse_commande.png)
 
+
